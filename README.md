@@ -53,7 +53,7 @@ $ python bootstrap.py
 
 ![服务端](/images/server_1.png)
 
-###CLient
+### Client
 
 ![客户端1](/images/client_1.jpeg)
 
